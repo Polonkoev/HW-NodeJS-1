@@ -1,15 +1,15 @@
-Список всех контактов 
+Список всех контактов:
 
-![Image alt]https://github.com/Polonkoev/HW-NodeJS-1/blob/b849a94fc3d9e91e4201f97a5005f25d07eb8798/screenshots/listOfContacts.jpg
+![Список всех контактов ](https://github.com/Polonkoev/HW-NodeJS-1/raw/main/screenshots/listOfContacts.jpg)
 
-Получить контакт по ID 
+Получить контакт по ID: 
 
-![Image alt]https://github.com/Polonkoev/HW-NodeJS-1/blob/b849a94fc3d9e91e4201f97a5005f25d07eb8798/screenshots/getContactById.jpg
+![Получить контакт по ID ](https://github.com/Polonkoev/HW-NodeJS-1/raw/main/screenshots/getContactById.jpg)
 
-Добавляем контакт 
+Добавляем контакт: 
 
-![Image alt]https://github.com/Polonkoev/HW-NodeJS-1/blob/b849a94fc3d9e91e4201f97a5005f25d07eb8798/screenshots/addContact.jpg
+![Добавляем контакт](https://github.com/Polonkoev/HW-NodeJS-1/raw/main/screenshots/addContact.jpg)
 
-Удаляем контакт
+Удаляем контакт:
 
-![Image alt]https://github.com/Polonkoev/HW-NodeJS-1/blob/b849a94fc3d9e91e4201f97a5005f25d07eb8798/screenshots/removeContact.jpg
+![Удаляем контакт](https://github.com/Polonkoev/HW-NodeJS-1/raw/main/screenshots/removeContact.jpg)
